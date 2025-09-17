@@ -1,0 +1,8 @@
+/home/jayesh/Documents/GeneVision/gene-vision-api/src/main/java/com/genevision/api/ApiApplication.java
+/home/jayesh/Documents/GeneVision/gene-vision-api/src/main/java/com/genevision/api/controller/GeneExpressionController.java
+/home/jayesh/Documents/GeneVision/gene-vision-api/src/main/java/com/genevision/api/dto/DashboardStats.java
+/home/jayesh/Documents/GeneVision/gene-vision-api/src/main/java/com/genevision/api/dto/GeneSearchResult.java
+/home/jayesh/Documents/GeneVision/gene-vision-api/src/main/java/com/genevision/api/dto/UploadResponse.java
+/home/jayesh/Documents/GeneVision/gene-vision-api/src/main/java/com/genevision/api/entity/GeneExpression.java
+/home/jayesh/Documents/GeneVision/gene-vision-api/src/main/java/com/genevision/api/repository/GeneExpressionRepository.java
+/home/jayesh/Documents/GeneVision/gene-vision-api/src/main/java/com/genevision/api/service/GeneExpressionService.java

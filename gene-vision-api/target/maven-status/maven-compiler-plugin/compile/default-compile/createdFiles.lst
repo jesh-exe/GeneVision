@@ -1,0 +1,10 @@
+com/genevision/api/ApiApplication.class
+com/genevision/api/entity/GeneExpression$GeneExpressionBuilder.class
+com/genevision/api/repository/GeneExpressionRepository.class
+com/genevision/api/dto/DashboardStats.class
+com/genevision/api/dto/GeneSearchResult.class
+com/genevision/api/entity/GeneExpression.class
+com/genevision/api/service/GeneExpressionService.class
+com/genevision/api/controller/GeneExpressionController.class
+com/genevision/api/dto/UploadResponse.class
+com/genevision/api/dto/DashboardStats$TopGene.class
